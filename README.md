@@ -11,3 +11,4 @@ This project implements an end-to-end multi-source document question-answering (
 
 ## Project Structure
 
+├── app.py # Main application file (Streamlit UI and backend logic) ├── requirements.txt # Python package dependencies ├── Dockerfile # Docker container configuration ├── README.md # Project overview and instructions └── .env.example # Example environment variables configuration
